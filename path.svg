@@ -8,4 +8,6 @@
 	<path d="M 110 75 C 10 75 10 10 150 10" stroke-width="3" stroke="red" fill="none"/>
 
 	<path d="M 110 75 C 10 75 10 150 150 150" stroke-width="3" stroke="red" fill="none"/>
+
+	<path d="M 150 10 Q 200 75 150 150" stroke-width="3" stroke="red" fill="none"/>
 </svg>
