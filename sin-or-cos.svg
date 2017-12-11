@@ -1,0 +1,11 @@
+<svg version="1.1" 
+	height="500" 
+	weight="200"
+	xmlns="http://www.w3.org/2000/svg">
+
+	<path d="M 30 30 H 470" stroke-width="1" stroke="grey" fill="none"/>
+
+	<path d="M 30 170 H 470" stroke-width="1" stroke="grey" fill="none"/>
+
+	<path d="M 30 100 Q 60 -20 90 100 T 150 100 T 210 100 T 270 100 T 330 100 T 390 100 T 450 100" stroke-width="2" stroke="purple" fill="none"/>
+</svg>
