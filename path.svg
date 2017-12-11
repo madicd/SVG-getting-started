@@ -3,5 +3,5 @@
 	weight="200"
 	xmlns="http://www.w3.org/2000/svg">
 
-	<path d="M 10 10 H 150 V 150 H 10 V 10" fill="none" stroke-width="3" stroke="blue"/>
+	<path d="M 10 10 H 150 V 150 H 10 Z" fill="none" stroke-width="3" stroke="blue"/>
 </svg>
