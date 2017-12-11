@@ -1,6 +1,6 @@
 <svg version="1.1" 
 	height="200" 
-	widht="500"
+	width="500"
 	xmlns="http://www.w3.org/2000/svg">
 
 	<path d="M 30 30 H 470" stroke-width="1" stroke="grey" fill="none"/>
